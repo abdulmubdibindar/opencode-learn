@@ -1,0 +1,18 @@
+{
+  "obsidian-prism-theme@@pt-font-alt-g": false,
+  "obsidian-prism-theme@@pt-font-alt-a": false,
+  "obsidian-prism-theme@@pt-font-disable-ligatures": true,
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-custom-dt",
+  "obsidian-prism-theme@@color-schemes-lt": "pt-color-scheme-peach-lt",
+  "obsidian-prism-theme@@accent-style-lt": "pt-accent-style-filled-lt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-filled-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-yellow-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
+  "obsidian-prism-theme@@color-scheme-style-lt": "pt-color-scheme-style-minimal-lt",
+  "obsidian-prism-theme@@custom-vault-banner-icon-url": "url(data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%220%200%2040%2040%22%3E%0A%20%20%3C%21--%20back%20panel%20with%20tab%20--%3E%0A%20%20%3Cpath%20fill%3D%22%235B8DEF%22%20d%3D%22M4%208c0-1.1.9-2%202-2h8.5l3%203H34c1.1%200%202%20.9%202%202v21c0%201.1-.9%202-2%202H6c-1.1%200-2-.9-2-2V8z%22%2F%3E%0A%20%20%3C%21--%20front%20panel%20%28slightly%20lighter%2C%20offset%20down%20for%20flat%20depth%29%20--%3E%0A%20%20%3Cpath%20fill%3D%22%238BB0F7%22%20d%3D%22M4%2015c0-1.1.9-2%202-2h26.6c1.25%200%202.2%201.12%201.98%202.35l-2.9%2016C31.46%2032.34%2030.6%2033%2029.6%2033H6c-1.1%200-2-.9-2-2V15z%22%2F%3E%0A%3C%2Fsvg%3E)",
+  "obsidian-prism-theme@@dark-mark-highlight-style": "pt-highlight-style-filled-dt",
+  "obsidian-prism-theme@@pt-icons-accent": true,
+  "obsidian-prism-theme@@pt-fade-inactive-tabs": true,
+  "obsidian-prism-theme@@file-line-width": 950
+}

@@ -1,0 +1,17 @@
+{
+  "showInlineTitle": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true
+}

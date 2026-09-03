@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#itera",
+      "color": {
+        "a": 1,
+        "rgb": 14701145
+      }
+    },
+    {
+      "query": "tag:#clief  ",
+      "color": {
+        "a": 1,
+        "rgb": 3618015
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.71216926422617,
+  "lineSizeMultiplier": 0.234976440739398,
+  "collapse-forces": false,
+  "centerStrength": 0.562447104340467,
+  "repelStrength": 16.1238060693991,
+  "linkStrength": 0.906782734856728,
+  "linkDistance": 126,
+  "scale": 0.009261355934283521,
+  "close": false
+}

@@ -1,0 +1,13 @@
+{
+  "quartoPath": "quarto",
+  "enableQmdLinking": true,
+  "quartoTypst": "",
+  "openPdfInObsidian": true,
+  "previewInObsidian": true,
+  "previewMarkdownFiles": true,
+  "outlineMarkdownFiles": true,
+  "showYamlFiles": true,
+  "showLuaFiles": true,
+  "showOutline": true,
+  "templatesFolder": ""
+}
