@@ -18,3 +18,5 @@ Kita bisa melihat langsung parameter-parameter dari LLM itu sendiri di dalam Ope
 ## Pertanyaan yang muncul
 
 - Apakah OpenCode bisa plan mode?
+	- Jawab (2026-09-04 berjam-jam berikutnya): Bisa! Hanya saja tidak seperti Antigravity atau Claude Code yang membuat artifact baru berupa dokumen terpisah dan bisa kita komentari bagian-bagiannya dan menjadi respon dari artifact tersebut, melainkan langsung ditulis di kotak _prompt_
+	- Saya mencoba membandingkan antarmuka di Zed dengan OpenCode Desktop (OCD). Bagi saya, Zed lebih memuaskan karena memungkinkan formatting dengan sintaks Markdown, seperti otomatis mengenali `-[spasi]` sebagai _bulleted list_, `#` sebagai heading. Sementara itu di OCD belum seperti itu. Selain itu, kotak prompt Zed serasa seperti laman Markdown biasa. Terasa luas dan seperti bisa menuliskan apa saja. Asal tidak lupa memencet Shift + Enter untuk baris baru.
