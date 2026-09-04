@@ -8,8 +8,8 @@ Baca dokumen-dokumen berikut untuk memahami konsep-konsep kunci terkait OBE di I
 - [[CPL-CPMK]]
 - [[Materi Per Pekan]]
 - [[Penilaian]]
-- [[01 PENDIDIKAN/PL25-21104 Pemanfaatan AI untuk Perencanaan/_assets/Penulisan RPS|Penulisan RPS]]
+- [[Penulisan RPS]]
 
 ## Tentang Perkuliahan di PWK
 
-- [[01 PENDIDIKAN/PL25-21104 Pemanfaatan AI untuk Perencanaan/_assets/Studio|Studio]]
+- [[Studio]]
