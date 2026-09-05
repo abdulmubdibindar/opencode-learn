@@ -119,7 +119,63 @@ Memisahkan ketiganya sejak menulis tabel memberi tiga kemudahan pada tahap-tahap
 
 Manfaatnya juga terasa pada tapisan isu di bab berikutnya. Rubrik penilaian tapisan menuntut setiap skor disertai bukti yang dapat ditelusuri — baris yang mencampur fakta, opini, dan dugaan akan membuat skor tidak dapat dipertanggungjawabkan. Kalau sejak tabel belanja masalah statusnya sudah jelas, menuliskan bukti pada tahap tapisan menjadi pekerjaan memindah, bukan pekerjaan menebak.
 
-## 4.4 Merumuskan Pernyataan Isu Awal {#sec-441}
+### 4.2.2 Menyusun hasil belanja masalah dalam satu tabel data terstruktur {#sec-422}
+
+Hasil belanja masalah dituangkan ke dalam satu tabel, dengan satu baris mewakili satu kondisi atau keadaan yang ditemukan beserta masalah yang dibingkai darinya. Kolom yang dipakai adalah sebagai berikut:
+
+| Kolom | Isi |
+|---|---|
+| Kode entri | Nomor urut unik untuk setiap baris, agar mudah dirujuk kembali. |
+| Aspek | Aspek kajian yang sedang dianalisis (misalnya, fisik lingkungan, lingkungan binaan, atau ekonomi). |
+| Kondisi *(problem situation)* | Satu kalimat padat yang merangkum kondisi atau keadaan yang ditemukan. |
+| Masalah *(policy problem)* | Satu framing yang dipilih dari kondisi tersebut — menggambarkan pentingnya temuan dan bagi siapa, bukan sekadar salinan dari kolom kondisi. |
+| Lokasi | Wilayah administratif tempat terjadinya masalah; tingkatannya menyesuaikan skala masalah (satu desa/kelurahan, satu kecamatan, atau lintas kawasan). |
+| Jenis sumber | Media populer, artikel ilmiah, atau media sosial. |
+| Tautan/bukti | Alamat sumber atau rujukan yang dapat ditelusuri. |
+| Tahun | Tahun informasi atau kejadian tersebut. |
+| Status informasi | Fakta, opini, atau dugaan — cara menetapkannya dibahas pada subbab 4.2.1. |
+
+Kolom **lokasi** merujuk pada wilayah administratif, bukan sekadar koordinat. Tingkatannya mengikuti skala masalah: persoalan yang hanya melanda satu permukiman cukup ditulis pada desa/kelurahan yang bersangkutan, sedangkan persoalan yang melintasi beberapa desa ditulis sampai batas wilayah tersebut. Dengan batas administrasi yang jelas, setiap temuan dapat diuji keterkaitannya dengan unit perencanaan, dapat dipetakan pada subbab berikutnya, dan kelak mudah dilacak kembali pada tahap tapisan.
+
+::: {.callout-tip title="Kiat"}
+
+Gunakan satu baris untuk satu temuan, dan jangan menggabungkan dua persoalan berbeda dalam satu baris. Kolom **kondisi** dan **lokasi** adalah tempat yang paling sering menyimpan informasi penting yang tidak tercermin di kolom **masalah**.
+
+:::
+
+Tabel berikut memperagakan beberapa baris hasil belanja masalah dari sebuah kecamatan pesisir (kolom **tautan/bukti** sengaja tidak ditampilkan agar contoh tetap ringkas):
+
+| Kode | Aspek | Kondisi *(problem situation)* | Masalah *(policy problem)* | Lokasi | Jenis sumber | Tahun | Status informasi |
+|---|---|---|---|---|---|---|---|
+| FL-01 | Fisik lingkungan | Tutupan hutan di lereng atas turun dari 40% menjadi 22% dalam sepuluh tahun. | Meluasnya lahan kritis pada lereng atas yang rawan longsor. | Tiga desa di lereng atas | Artikel ilmiah | 2023 | Fakta |
+| LB-01 | Lingkungan binaan | Sebagian besar rumah tangga memakai sumur gali; airnya keruh saat musim hujan. | Rendahnya cakupan layanan air minum perpipaan pada permukiman pesisir. | Permukiman pesisir | Media populer | 2024 | Dugaan |
+| EK-01 | Ekonomi | Hasil tangkapan nelayan skala kecil menurun dan harga jual tidak naik. | Ketergantungan rumah tangga pada perikanan tangkap skala kecil dengan nilai tambah rendah. | Kampung nelayan pesisir | Artikel ilmiah | 2022 | Fakta |
+| SK-01 | Sosial-kependudukan | Rata-rata lama sekolah penduduk usia produktif di bawah rata-rata kabupaten. | Rendahnya kualitas sumber daya manusia usia produktif. | Seluruh kecamatan | Artikel ilmiah | 2022 | Fakta |
+| KB-01 | Kelembagaan dan pembiayaan | Belum ada lembaga pengelola bersama kawasan wisata pesisir. | Rentannya konflik pemanfaatan pantai wisata antar desa. | Pantai wisata lintas desa | Media sosial | 2023 | Opini |
+
+Contoh di atas memperlihatkan beberapa kebiasaan penting. Satu baris memuat satu temuan, bukan dua. Kondisi ditulis sebagai ringkasan apa yang ditemukan; masalah ditulis sebagai framing yang dipilih darinya — untuk kondisi yang sama, framing alternatif dapat ditulis pada baris lain dengan kode berbeda. Lokasi ditulis sebagai wilayah administratif ("tiga desa di lereng atas"), dan tingkatannya mengikuti skala masalah. Kolom status informasi memisahkan temuan yang sudah terverifikasi (fakta), pernyataan yang masih berupa penilaian pihak tertentu (opini), dan hal yang masih berupa perkiraan yang perlu diuji (dugaan). Angka dan lokasi pada tabel ini sepenuhnya ilustratif untuk latihan — kelompok Anda mengisi dengan data wilayah studinya masing-masing.
+
+#### Menuliskan kondisi dan masalah dengan konteks aspek {.unnumbered}
+
+Kolom **kondisi** dan **masalah** bukan dua kolom kosong yang boleh diisi sekehendak; keduanya mengikuti konsep subbab 4.1. Kondisi ditulis sebagai apa yang ditemukan: satu kalimat ringkas yang merangkum keadaan atau kejadian. Masalah ditulis sebagai framing dari kondisi tersebut — mengapa keadaan itu penting dan bagi siapa — dan sebuah kondisi dapat dibingkai menjadi lebih dari satu masalah, seperti diperlihatkan pada contoh berikut:
+
+| Aspek kajian | Kondisi (bahan mentah) | Masalah (salah satu framing) |
+|---|---|---|
+| Fisik lingkungan | Tutupan hutan lereng atas turun dari 40% menjadi 22% dalam sepuluh tahun. | Meningkatnya kerawanan longsor pada lereng atas. |
+| Lingkungan binaan | Sebagian rumah menempel pada tepian saluran drainase yang sempit. | Meluasnya genangan di permukiman hampir setiap hujan. |
+| Ekonomi | Sebagian besar hasil panen sayur berakhir pada tengkulak dari luar kecamatan. | Tidak menentunya pendapatan petani sayur. |
+
+Karena penelusuran sumber dikerjakan per aspek kajian sejak awal (subbab 4.2), setiap baris pada tabel lahir dari aspek tertentu. Konteks aspek tetap dibawa sampai sini: ia membantu membaca baris, menyebut dari mana temuan datang, dan menandai keterkaitan antar baris pada langkah pengelompokan berikut.
+
+Setelah tabel terisi, langkah berikutnya bukan lagi memilah ke dalam aspek — itu sudah terjadi sejak awal, karena setiap anggota menelusuri aspeknya masing-masing. Dua pekerjaan berikut justru lebih berguna. Pertama, dalam satu aspek, rangkumlah baris-baris yang menunjuk pada muara yang sama menjadi satu kelompok, agar daftar tidak menyimpan pengulangan. Kedua — dan ini yang lebih menantang — periksa keterkaitan lintas aspek. Baris "tutupan hutan di lereng atas turun" (fisik lingkungan) dan "sebagian besar rumah tangga memakai sumur gali; airnya keruh" (lingkungan binaan) tampak tidak berhubungan, padahal menyusutnya tutupan hutan mengurangi resapan air, yang kemudian memengaruhi ketersediaan air tanah di permukiman di bawahnya. Sebuah muara yang merentang ke beberapa aspek seperti ini biasanya menyimpan persoalan yang lebih besar — dan isu yang layak disebut strategis hampir tidak pernah berdiri pada satu aspek saja. Menandai keterkaitan semacam ini sejak di tabel akan sangat membantu pada tahap perumusan isu (subbab 4.3) dan pada saat penilaiannya kelak.
+
+### 4.2.3 Menandai Sebaran Masalah pada Peta {#sec-423}
+
+Kolom **lokasi** pada tabel belanja masalah disusun dengan satu tujuan: memudahkan menandai di mana masalah itu tersebar. Setelah tabel terisi, kelompok menyiapkan peta wilayah administratif lokasi studi pada kertas A0 dengan batas kecamatan dan pembagian hingga unit administrasi terkecil, misalnya desa/kelurahan. Kemudian tempel sticky note pada setiap unit administrasi tersebut: tuliskan kode entri baris yang bersangkutan pada sticky note, lalu tempelkan pada unit administrasi yang sesuai dengan isi kolom lokasinya. Satu desa bisa menerima lebih dari satu sticky note; sebaliknya, satu baris yang lokasinya melintasi beberapa desa harus diwakili oleh beberapa sticky note di unit yang berbeda.
+
+Peta sebaran ini bukan sekadar hiasan. Ia membuat konsentrasi masalah terlihat, memperlihatkan keterkaitan antar masalah yang lokasinya berhimpit (misalnya keluhan genangan yang bertumpuk pada desa yang sama dengan desa yang tutupan hutannya menyusut), dan menjadi bahan diskusi kelompok saat membingkai masalah. Baris yang belum menemukan tempatnya di peta adalah tanda bahwa lokasi pada kolom **lokasi** masih harus dilengkapi.
+
+## 4.3 Merumuskan Pernyataan Isu Awal {#sec-431}
 
 Setelah baris-baris hasil belanja masalah tersusun per aspek dan keterkaitan lintas aspeknya ditandai, langkah berikutnya adalah merumuskan pernyataan isu awal dari muara-muara yang Anda anggap paling penting. Rumusan ini adalah hipotesis isu — sebuah kalimat kondisi yang siap diuji di lapangan dan ditapis di bab berikutnya.
 

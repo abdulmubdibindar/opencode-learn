@@ -10,6 +10,7 @@ Status: `rekam` (baru), `aktif` (dilengkapi), `arsip` (selesai). Cermin `-en` di
 
 | Tanggal | Ringkasan | Status | ID | `-en` |
 |---|---|---|---|---|
-| 2026-09-04 | first-work | rekam | `2026-09-04-first-work` | — |
+| 2026-09-04 | first-work | rekam | `2026-09-04-first-work` | ✓ |
+| 2026-09-04 | finally-buy-deepseek | rekam | `2026-09-04-finally-buy-deepseek` | ✓ |
 
 <!-- TAMBAHKAN BARIS DI SINI -->
