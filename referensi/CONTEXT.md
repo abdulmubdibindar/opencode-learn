@@ -10,6 +10,7 @@ Satu job: menampung sumber materi penulisan bab — ekstraksi terstruktur dari b
 - `fyfe-concreteness-fading/` — ekstraksi terstruktur *Making Concreteness Fading More Concrete...*. Punya `_index.md` sendiri di dalamnya.
 - `2366_Making-concreteness-fading.pdf` — PDF mentah makalah concreteness fading.
 - `William N. Dunn - Public Policy Analysis_ An Integrated Approach-Routledge (2017).pdf` — PDF mentah buku Dunn.
+- `OUTLINE MODUL STUDAS 2026.docx` — outline/kerangka Modul STUDAS 2026, dipakai `modul/acuan/` untuk menyegarkan struktur bab.
 
 ## Cara pakai
 1. Buka `_index.md` di dalam subfolder untuk menemukan bagian yang relevan.
