@@ -12,5 +12,6 @@ Status: `rekam` (baru), `aktif` (dilengkapi), `arsip` (selesai). Cermin `-en` di
 |---|---|---|---|---|
 | 2026-09-04 | first-work | rekam | `2026-09-04-first-work` | ✓ |
 | 2026-09-04 | finally-buy-deepseek | rekam | `2026-09-04-finally-buy-deepseek` | ✓ |
+| 2026-09-05 | trying-to-generate-image | rekam | `2026-09-05-trying-to-generate-image` | ✓ |
 
 <!-- TAMBAHKAN BARIS DI SINI -->
