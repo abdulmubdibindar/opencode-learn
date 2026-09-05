@@ -1,4 +1,6 @@
-## Apa yang dilakukan
+# Pekerjaan Pertama di OpenCode
+
+## Apa yang Saya Lakukan
 
 Hari ini saya menulis README.md dengan bahasa Inggris dibantu skill `terjemahan-inggris`. Fail percakapannya bisa dilihat di [[assets/perbaiki-bahasa-inggris-readme-dengan-penjelasan.json|sini]].
 

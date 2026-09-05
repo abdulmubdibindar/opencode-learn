@@ -1,6 +1,6 @@
-# 2026-09-04-finally-buy-deepseek
+# Akhirnya Saya Membeli DeepSeek
 
-## Apa yang saya lakukan
+## Apa yang saya Lakukan
 
 - Saya akhirnya berlangganan DeepSeek di platform.deepseek.com sebesar $10.00. Kita lihat berapa hari $10 ini bisa bertahan.
 - Saya juga mencoba OpenCode lewat Zed.

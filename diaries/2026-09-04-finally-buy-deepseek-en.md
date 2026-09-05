@@ -1,4 +1,4 @@
-# 2026-09-04-finally-buy-deepseek
+# I Finally Bought DeepSeek
 
 ## What I did
 
