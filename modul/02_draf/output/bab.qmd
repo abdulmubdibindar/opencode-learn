@@ -34,13 +34,19 @@ Bab ini sepenuhnya dibangun untuk mengecilkan peluang terjadinya *error* tipe-II
 
 Sebelum mengumpulkan apa pun, kita perlu membedakan tiga hal yang sering dicampur. Dunn membedakan *problem situation*, *policy problem*, dan *policy issue* (Dunn, 2017).
 
-| Konsep                        | Makna                                                                                                       | Bentuk di studio                                                                                                                      |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| Konsep | Makna | Bentuk di studio |
+| --- | --- | --- |
 | Kondisi (*problem situation*) | Kekhawatiran yang tersebar, tanda-tanda stres yang masih samar, atau kejutan yang belum punya solusi.       | Serakan temuan di wilayah studi yang belum Anda putuskan artinya — foto, keluhan, dan angka mentah yang belum menjadi satu masalah.   |
 | Masalah (*policy problem*)    | Representasi dari kondisi tersebut; lahir dari pikiran dan lingkungan, bukan objek yang "ada di luar sana". | Satu temuan yang sudah Anda pilih dan bingkai sebagai kalimat kondisi — keputusan "inilah masalahnya", bukan sekadar salinan catatan. |
 | Isu (*policy issue*)          | Formulasi masalah yang berbeda-beda menurut pandangan dan kepentingan aktor.                                | Masalah yang sama dirumuskan berbeda oleh pihak yang berbeda; kalimat isu yang netral dan konstruktif, siap ditapis.                  |
 
-Misalnya, rekan satu kelompok Anda mengumpulkan bermacam-macam informasi dari internet yang jenisnya beragam: ada foto talud jalan yang longsor, keluhan warga bahwa permukiman mereka banjir tiap hujan besar, dan cerita petani sayur yang kesulitan menjual hasil panen. Bahan-bahan itu belum menunjuk masalah apa pun — masih berupa *problem situation*, kondisi yang belum diputuskan artinya. Menjadi masalah justru ketika Anda memilih apa yang disorot dari bahan itu: kelompok Anda merumuskan "talud jebol mengakibatkan rumah warga tergenang", sedangkan kelompok lain, dari bahan yang sama, merumuskan "talud jebol mengakibatkan jalan sulit dilalui sehingga petani kesulitan menjual hasil panen". Dua kalimat itu adalah dua *policy problem* yang berbeda — dibingkai dari satu kondisi yang sama, bukan objek "di luar sana" yang tinggal disalin. Berpindah ke *policy issue* terjadi satu tingkat di atasnya: masalahnya sudah sama, tetapi rumusannya diperdebatkan. Untuk "rumah warga tergenang" yang sama, satu pihak menilai drainase yang harus dibenahi, pihak lain menilai permukiman yang harus dipindah. Perbedaan rumusan itulah isu — isu lahir karena para aktor merumuskan masalah yang sama secara berbeda menurut pandangan dan kepentingannya.
+Misalnya, rekan satu kelompok Anda mengumpulkan bermacam-macam informasi dari internet yang jenisnya beragam: ada foto talud jalan yang longsor, keluhan warga bahwa permukiman mereka banjir tiap hujan besar, dan cerita petani sayur yang kesulitan menjual hasil panen. Bahan-bahan itu belum menunjuk masalah apa pun — masih berupa *problem situation*, kondisi yang belum diputuskan artinya. Menjadi masalah justru ketika Anda memilih apa yang disorot dari bahan itu: kelompok Anda merumuskan "tergenangnya rumah warga", sedangkan kelompok lain, dari bahan yang sama, merumuskan "terhambatnya penjualan hasil panen petani". Dua kalimat itu adalah dua *policy problem* yang berbeda — dibingkai dari satu kondisi yang sama, bukan objek "di luar sana" yang tinggal disalin. Berpindah ke *policy issue* terjadi satu tingkat di atasnya: masalahnya sudah sama, tetapi rumusannya diperdebatkan. Untuk "tergenangnya rumah warga" yang sama, satu pihak menilai drainase yang harus dibenahi, pihak lain menilai permukiman yang harus dipindah. Perbedaan rumusan itulah isu — isu lahir karena para aktor merumuskan masalah yang sama secara berbeda menurut pandangan dan kepentingannya.
+
+| Lapisan | Pertanyaan yang dijawab | Contoh |
+|---|---|---|
+| Kondisi (*problem situation*) | Apa yang kita temukan? | "Talud jebol", "rumah tergenang", "panen sulit dijual" — semuanya ada, tetapi tidak satu pun berstatus masalah. |
+| Masalah (*policy problem*) | Bagaimana kita menafsirkan temuan itu? | Kelompok A: "tergenangnya rumah warga". Kelompok B: "terhambatnya penjualan hasil panen petani". |
+| Isu (*policy issue*) | Di mana perdebatan penanganannya? | Untuk "tergenangnya rumah warga": satu pihak menilai drainase yang harus dibenahi, pihak lain menilai permukiman yang harus dipindah. |
 
 Poin penting dari Dunn adalah bahwa analis lebih sering gagal karena memecahkan masalah yang salah dibanding karena solusinya salah. Kesalahan semacam ini kita kenal sebagai *error of the third type* — "memformulasikan masalah yang salah" — yang sudah dibahas pada kotak di awal bab. Karena itu, bab ini menaruh perhatian bukan pada kecepatan sampai ke jawaban, melainkan pada ketepatan sampai ke rumusan masalah.
 
@@ -52,7 +58,7 @@ Dalam kerangka Dunn, belanja masalah ini adalah wujud operasional dari dua langk
 
 Belanja masalah tidak dikerjakan oleh seluruh anggota dengan cara yang sama. Sejak awal studio, setiap kelompok sudah dibagi ke dalam lima aspek kajian: **fisik lingkungan (lingkungan alami)**, **lingkungan binaan**, **ekonomi**, **sosial-kependudukan**, serta **kelembagaan dan pembiayaan**. Pembagian ini sejalan dengan cara Anda menyusun profil wilayah pada bagian sebelumnya. Setiap anggota menelusuri sumber pada aspeknya masing-masing, sehingga sejak baris pertama ditulis, temuan sudah mengelompok menurut aspeknya — kita tidak perlu lagi memilah-milah belakangan.
 
-### 4.2.1 Sumber Belanja Masalah {#sec-421}
+### 4.2.1 Sumber Belanja Masalah dan Status Informasi {#sec-421}
 
 Belanja masalah pada tahap ini masih dikerjakan dari meja: menyusun dugaan isu dari data sekunder, jauh sebelum berangkat ke lapangan untuk verifikasi. Ada tiga jenis sumber yang lazim dirujuk untuk *problem search* dan *problem sensing* ini:
 
@@ -64,60 +70,23 @@ Menggunakan ketiga jenis sumber ini sekaligus bukan sekadar mengumpulkan banyak 
 
 ::: {.callout-note title="Catatan"}
 
-Ingat bahwa isu adalah hal yang belum tervalidasi. Apa yang Anda rekam pada tahap ini statusnya masih dugaan — hipotesis isu yang akan diuji. Mencampurkan fakta, opini, dan dugaan dalam satu tabel tanpa keterangan akan membuat tahap berikutnya sulit. Cara membedakan ketiganya dibahas pada subbab 4.3.
+Ingat bahwa isu adalah hal yang belum tervalidasi. Apa yang Anda rekam pada tahap ini statusnya masih dugaan — hipotesis isu yang akan diuji. Mencampurkan fakta, opini, dan dugaan dalam satu tabel tanpa keterangan akan membuat tahap berikutnya sulit, karena itu setiap baris perlu ditandai statusnya sebagaimana dijelaskan berikut ini.
 
 :::
 
-### 4.2.2 Menyusun hasil belanja masalah dalam satu tabel data terstruktur {#sec-422}
+#### Status informasi: fakta, opini, atau dugaan? {.unnumbered}
 
-Hasil belanja masalah dituangkan ke dalam satu tabel, dengan satu baris mewakili satu kondisi atau keadaan yang ditemukan. Kolom yang dipakai adalah sebagai berikut:
-
-| Kolom | Isi |
-|---|---|
-| Kode entri | Nomor urut unik untuk setiap baris, agar mudah dirujuk kembali. |
-| Kalimat ringkas | Satu kalimat padat yang menangkap esensi temuan. |
-| Deskripsi singkat | Uraian satu sampai dua kalimat yang memperjelas temuan. |
-| Lokasi | Cakupan atau ruang lingkup wilayah masalah — bukan sekadar koordinat, melainkan di mana dan seberapa luas persoalan itu terjadi (misalnya satu desa, satu kecamatan, atau lintas kawasan). |
-| Jenis sumber | Media populer, artikel ilmiah, atau media sosial. |
-| Tautan/bukti | Alamat sumber atau rujukan yang dapat ditelusuri. |
-| Tahun | Tahun informasi atau kejadian tersebut. |
-| Status informasi | Fakta, opini, atau dugaan — cara menetapkannya dibahas pada subbab 4.3. |
-
-Kolom **lokasi** sengaja dibedakan dari sekadar koordinat. Sebuah persoalan bisa berlokasi di satu titik tetapi berdampak pada satu wilayah; sebaliknya, sebuah persoalan bisa saja tersebar lintas desa. Menuliskan cakupan wilayah membuat temuan tersebut dapat diuji keterkaitannya dengan batas administrasi dan arah perencanaan wilayah studi.
-
-::: {.callout-tip title="Kiat"}
-
-Gunakan satu baris untuk satu temuan, dan jangan menggabungkan dua persoalan berbeda dalam satu baris. Kolom **deskripsi singkat** dan **lokasi** adalah tempat yang paling sering menyimpan informasi penting yang tidak tercermin di **kalimat ringkas**.
-
-:::
-
-Tabel berikut memperagakan beberapa baris hasil belanja masalah dari sebuah kecamatan pesisir (kolom **kode entri** dan **tautan/bukti** sengaja tidak ditampilkan agar contoh tetap ringkas):
-
-| Kalimat ringkas | Deskripsi singkat | Lokasi | Jenis sumber | Tahun | Status informasi |
-|---|---|---|---|---|---|
-| Luas hutan di lereng atas menyusut | Tutupan hutan di lereng atas berkurang akibat alih fungsi menjadi kebun campuran dalam sepuluh tahun terakhir. | Tiga desa di lereng atas | Artikel ilmiah | 2023 | Fakta |
-| Cakupan layanan air minum perpipaan rendah | Sebagian besar rumah tangga masih memakai sumur gali; diduga airnya keruh saat musim hujan. | Permukiman pesisir | Media populer | 2024 | Dugaan |
-| Sebagian besar kepala keluarga bekerja sebagai nelayan tangkap skala kecil | Mata pencaharian utama adalah perikanan tangkap skala kecil dengan nilai tambah rendah. | Kampung nelayan pesisir | Artikel ilmiah | 2022 | Fakta |
-| Rata-rata lama sekolah penduduk usia produktif rendah | Angka lama sekolah di bawah rata-rata kabupaten; sebagian remaja membantu melaut. | Seluruh kecamatan | Artikel ilmiah | 2022 | Fakta |
-| Belum ada lembaga pengelola bersama kawasan wisata pesisir | Potensi wisata pantai belum dikelola bersama; ada dugaan konflik pemanfaatan antar desa. | Pantai wisata lintas desa | Media sosial | 2023 | Opini |
-
-Contoh di atas memperlihatkan beberapa kebiasaan penting. Satu baris memuat satu temuan, bukan dua. Lokasi ditulis sebagai cakupan ("tiga desa di lereng atas"), bukan sekadar koordinat. Kolom status informasi memisahkan temuan yang sudah terverifikasi (fakta), pernyataan yang masih berupa penilaian pihak tertentu (opini), dan hal yang masih berupa perkiraan yang perlu diuji (dugaan). Angka dan lokasi pada tabel ini sepenuhnya ilustratif untuk latihan — kelompok Anda mengisi dengan data wilayah studinya masing-masing.
-
-Setelah tabel terisi, langkah berikutnya bukan lagi memilah ke dalam aspek — itu sudah terjadi sejak awal, karena setiap anggota menelusuri aspeknya masing-masing. Dua pekerjaan berikut justru lebih berguna. Pertama, dalam satu aspek, rangkumlah baris-baris yang menunjuk pada muara yang sama menjadi satu kelompok, agar daftar tidak menyimpan pengulangan. Kedua — dan ini yang lebih menantang — periksa keterkaitan lintas aspek. Baris "luas hutan di lereng atas menyusut" (fisik lingkungan) dan "sumur gali keruh saat musim hujan" (lingkungan binaan) tampak tidak berhubungan, padahal menyusutnya tutupan hutan mengurangi resapan air, yang kemudian memengaruhi ketersediaan air tanah di permukiman di bawahnya. Sebuah muara yang merentang ke beberapa aspek seperti ini biasanya menyimpan persoalan yang lebih besar — dan isu yang layak disebut strategis hampir tidak pernah berdiri pada satu aspek saja. Menandai keterkaitan semacam ini sejak di tabel akan sangat membantu pada tahap perumusan isu (subbab 4.4) dan pada saat penilaiannya kelak.
-
-## 4.3 Membedakan Fakta, Opini, dan Dugaan {#sec-431}
-
-Catatan pada subbab 4.2.1 menyinggung bahwa mencampur fakta, opini, dan dugaan akan menyulitkan tahap berikutnya. Sebelum melangkah lebih jauh, ketiganya perlu dipisahkan dengan jelas — karena status sebuah baris menentukan apa yang boleh kita lakukan terhadapnya.
+Status sebuah baris menentukan apa yang boleh dan tidak boleh kita lakukan terhadapnya, karena itu ketiganya perlu dipisahkan dengan jelas:
 
 | Jenis | Ciri | Contoh | Status verifikasi |
 |---|---|---|---|
 | Fakta | Pernyataan yang dapat diperiksa benar-salahnya lewat data atau sumber yang tertelusur. | "Tutupan hutan di lereng atas turun dari 40% menjadi 22% dalam sepuluh tahun." | Terverifikasi; dipakai sebagai pijakan rumusan isu. |
 | Opini | Penilaian atau pendapat pihak tertentu; tidak menggambarkan keadaan itu sendiri, melainkan cara pandang terhadapnya. | "Pemerintah daerah tidak serius menangani banjir." | Tidak perlu dibuktikan benar; berguna sebagai tanda arah pertentangan pandangan antar-aktor. |
-| Dugaan | Pernyataan yang masih berupa perkiraan hubungan sebab-akibat atau keadaan, belum diuji. | "Berkurangnya hutan membuat sumur warga menjadi keruh." | Belum terverifikasi; masuk daftar yang harus diuji lewat data primer di lapangan. |
+| Dugaan | Pernyataan yang masih berupa perkiraan hubungan sebab-akibat atau keadaan, belum diuji. | "Sebagian sumur warga di lereng atas keruh saat musim hujan." | Belum terverifikasi; masuk daftar yang harus diuji lewat data primer di lapangan. |
 
-Memisahkan ketiganya sejak menulis tabel memberi tiga kemudahan pada tahap-tahap berikutnya. Pertama, rumusan isu awal harus ditulis sebagai kondisi yang terukur (subbab 4.4) — bahan bakunya adalah fakta, bukan opini. Kedua, opini justru berharga sebagai penanda bahwa sebuah masalah dipandang berbeda oleh para pihak; dari perbedaan inilah isu (*policy issue*) lahir, sebagaimana dijelaskan pada 4.1. Ketiga, dugaan adalah baris-baris yang paling menentukan jadwal kerja kelompok: baris-baris inilah yang harus dibawa ke lapangan untuk diverifikasi dengan data primer, karena data sekunder tidak cukup untuk memastikannya.
+Memisahkan ketiganya sejak menulis tabel memberi tiga kemudahan yang berpijak langsung pada konsep 4.1. Pertama, isu yang akan dirumuskan (subbab 4.3) harus ditulis sebagai kondisi yang terukur — bahan bakunya adalah fakta: masalah memang dibangun dari kondisi, bukan dari penilaian sepihak. Kedua, opini justru berharga sebagai penanda bahwa sebuah masalah dipandang berbeda oleh para pihak; dari perbedaan itulah isu (*policy issue*) lahir, sebagaimana dijelaskan pada 4.1. Ketiga, dugaan adalah baris-baris yang paling menentukan jadwal kerja kelompok: baris-baris inilah yang harus dibawa ke lapangan untuk diverifikasi dengan data primer, karena data sekunder tidak cukup untuk memastikannya.
 
-Manfaatnya juga terasa pada tapisan isu di bab berikutnya. Rubrik penilaian tapisan menuntut setiap skor disertai bukti yang dapat ditelusuri — baris yang mencampur fakta, opini, dan dugaan akan membuat skor tidak dapat dipertanggungjawabkan. Kalau sejak tabel belanja masalah statusnya sudah jelas, menuliskan bukti pada tahap tapisan menjadi pekerjaan memindah, bukan pekerjaan menebak.
+Manfaat pemisahan ini juga terasa pada tapisan isu di bab berikutnya. Rubrik penilaian tapisan menuntut setiap skor disertai bukti yang dapat ditelusuri — baris yang mencampur fakta, opini, dan dugaan akan membuat skor tidak dapat dipertanggungjawabkan. Kalau sejak tabel belanja masalah statusnya sudah jelas, menuliskan bukti pada tahap tapisan menjadi pekerjaan memindah, bukan pekerjaan menebak.
 
 ### 4.2.2 Menyusun hasil belanja masalah dalam satu tabel data terstruktur {#sec-422}
 
@@ -189,7 +158,7 @@ Misalnya, dari tabel pada subbab 4.2.2 Anda menilai baris "sebagian besar kepala
 
 Pernyataan isu awal ini tetap berstatus **hipotesis kerja**. Ia disusun dari data sekunder dan pengamatan awal, dan akan diuji di lapangan. Satu muara dapat menghasilkan lebih dari satu kalimat isu; semuanya ditulis dulu. Isu mana yang harus didahulukan adalah pekerjaan bab berikutnya.
 
-## 4.5 Dari Daftar Isu Awal ke Satu Isu yang Diperiksa {#sec-451}
+## 4.4 Dari Daftar Isu Awal ke Satu Isu yang Diperiksa {#sec-441}
 
 Hasil Bab 4 adalah daftar pernyataan isu awal yang sudah dirumuskan dengan baik. Di titik inilah pekerjaan menyusun struktur masalah (*problem structuring*) menurut Dunn berhenti — persoalannya sudah terumus, bukan lagi samar.
 
