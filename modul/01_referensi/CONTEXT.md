@@ -4,6 +4,7 @@ One job: menggali sumber dan memetakan isu perencanaan yang relevan untuk Bab 4 
 
 ## Inputs
 - Working (this run): dari `../../referensi/` — pilih ekstraksi yang relevan (lihat `../../referensi/CONTEXT.md`).
+- Reference (stable): `aspek-aspek-isu.md` di folder ini — daftar lima aspek kajian, dirujuk `02_draf` untuk subbab 4.2.3.
 - Working (this run): `../acuan/bab-05-analisis-isu-strategis.md` — baca 5.2.1–5.2.5 untuk menjaga jembatan konseptual ke tapisan USG.
 - Reference (every run): `../../_assets/_index.md` → buka berkas fakta ITERA terkait (CPL/CPMK, studio).
 - Reference (every run): `../../_aturan/rujukan-berkas.md` (untuk menulisi rujukan dengan benar).

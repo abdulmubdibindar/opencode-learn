@@ -8,7 +8,7 @@ Alur dalam satu kalimat: kumpulkan isu dari referensi, tulis draf bab dalam Quar
 |---|---|---|---|---|
 | `01_referensi` | Kumpulkan peta isu perencanaan | `referensi/` ekstraksi + `_assets/` + `acuan/bab-05-…` | `output/peta-isu.md` | orang membaca peta isu; periksa sumbernya |
 | `02_draf` | Tulis draf bab (Quarto) | `01_referensi/output/peta-isu.md` + `acuan/bab-05-…` | `output/bab.qmd` | orang membaca draf; verifikasi urutan argumen |
-| `03_review-terbit` | Review & render PDF | `02_draf/output/bab.qmd` | `output/bab.pdf` | orang meninjau hasil akhir, periksa kuartal |
+| `03_review-terbit` | Review & render DOCX | `02_draf/output/bab.qmd` | `output/bab.docx` | orang meninjau hasil akhir, periksa kerapian |
 
 Factory (stabil tiap run): `../_assets/`, `../_aturan/`, `../referensi/`, `acuan/`
 Product (baru tiap run): `output/` tiap stage
